@@ -1,0 +1,5 @@
+fastapi
+loguru
+pyngrok
+python-dotenv
+vocode
