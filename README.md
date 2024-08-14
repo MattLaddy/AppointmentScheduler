@@ -5,7 +5,6 @@
 This project uses Vocode to handle inbound and outbound phone calls. It includes a custom agent for spelling out text and integrates with Twilio for telephony 
 services.
 
-# Assort Health: Call +1 (646) 490-1853
 
 ## Requirements
 - **Ngrok**: For exposing the local server to the internet.
